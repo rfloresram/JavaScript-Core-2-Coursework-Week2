@@ -20,6 +20,7 @@ body {
   border-top: 1px solid #dccdc6;
   padding-top: 2em;
   padding-bottom: 2em;
+  
 }
 
 .navbar-brand > img {
@@ -93,6 +94,10 @@ body {
 /* Article */
 .article {
   margin-bottom: 2em;
+}
+
+img {
+  justify-content: center;
 }
 
 .article-title {
