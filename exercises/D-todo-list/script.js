@@ -14,7 +14,7 @@ function todoList(todos) {
       let textDecoration = liFun.style.textDecorationLine;
       if (textDecoration === "none")
       {
-        console.log(textDecoration);
+        
         liFun.style.textDecorationLine = "line-through";
       }else if (textDecoration === "line-through")
         liFun.style.textDecorationLine = "none";
